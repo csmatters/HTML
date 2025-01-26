@@ -1,0 +1,39 @@
+1. What is HTML?
+
+2. Structure of HTML.
+
+3. Headings
+
+4. paragraphs
+
+5. Style
+
+6. HTML Text Formatting
+
+7. Comments
+
+8. Colors (rgb, hex, names);
+
+9. Links
+
+10. images
+
+11. favicon
+
+12. Page title
+
+13. Table
+
+14. List
+
+15. span
+
+16. Div / classes/ id
+
+17. Iframe - Google map
+
+19. meta tags
+
+20. HTML forms
+
+21. HTML Media
