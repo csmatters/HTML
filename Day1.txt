@@ -37,4 +37,6 @@
 20. HTML forms
 
 21. HTML Media
-ok done
+
+
+This is the final syllabus of HTML for the day 1
